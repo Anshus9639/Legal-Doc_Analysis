@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data
+data/*
+!data/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
